@@ -1,0 +1,46 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elementyth.github.io/element" resolutions="1x" timestamp="1510284186880">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="274170624" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="278381782" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:index"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u322-4.png" crc="4224595317" ref="phone>index"/>
+    <file name="all in-crop-u284.jpg" crc="3774104652" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original.jpg" crc="4015289137" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u283-4.png" crc="253257835" ref="phone>index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm.jpg" crc="4058269800" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm.jpg" crc="3918523525" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u288-4.png" crc="415123480" ref="phone>index"/>
+    <file name="all in-crop-u94.jpg" crc="529319321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-4.png" crc="5417405" ref="index"/>
+    <file name="u178-4.png" crc="82312672" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="517046089" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="191376096" seo="true" mt="1510284169529" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="491687293" seo="true" mt="1510283793674" redirect="true"/>
+</manifest>
